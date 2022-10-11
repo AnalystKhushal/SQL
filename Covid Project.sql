@@ -1,4 +1,4 @@
--- Set the schema as default schema for easy navigation
+-- Set the schema as default schema for easy querying
 
 SELECT * FROM coviddeaths
 WHERE continent IS NOT NULL
